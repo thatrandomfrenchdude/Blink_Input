@@ -1,4 +1,4 @@
-int led = 13; //not necessary
+int led = 13;
 
 void setup() {
   // initialize the digital pin as an output.
