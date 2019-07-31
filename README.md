@@ -9,3 +9,6 @@ This code checks for a numerical input from the serial terminal and then blinks 
 ## Tutorial
 **Challenge 1:** Create a code to receive a single digit input from the terminal and blink the on-board LED the specified number of times.<br/>
 **Challenge 2:** Modify the code to accept up to four digit inputs.
+
+## License
+[GNU](https://choosealicense.com/licenses/gpl-3.0/)
